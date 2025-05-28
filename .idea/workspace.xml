@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cfdbf587-ddcc-4245-a253-acea9e524542" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/Linear_Regression.iml" afterDir="false" />
